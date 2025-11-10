@@ -1,1 +1,0 @@
-# bigmart-sales-prediction-app-ML_Project
