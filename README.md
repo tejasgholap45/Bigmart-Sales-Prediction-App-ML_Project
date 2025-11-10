@@ -1,6 +1,3 @@
-Perfect 😎! मी तुला **GitHub-style polished, professional README** तयार करून देतो. यात **badges, emojis, modern styling, clean layout** असतील, जे एकदम professional आणि attractive दिसतील.
-
-````markdown
 # 🛒 BigMart Sales Prediction App ML Project
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -46,8 +43,7 @@ flowchart TD
         C2 --> D1[🌐 Streamlit Web Interface]
         D1 --> D2[📊 Predict Sales]
     end
-````
-
+```
 ---
 
 ## ✨ Features
