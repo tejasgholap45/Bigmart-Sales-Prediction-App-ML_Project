@@ -120,6 +120,3 @@ streamlit run app.py
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tejas-gholap-bb3417300/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/tejasgholap45)
-
-तुम्हाला ती next-level version हवी का?
-```
